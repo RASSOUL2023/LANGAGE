@@ -19,7 +19,7 @@
 | Smallworld        |     GE Numérique                                           | https://www.ge.com/digital/applications/smallworld-gis-geospatial-asset-management |   Propriétaire                         |
 | Mapbox            |     Eric Gundersen                                         | https://mapbox.com                                                                 |   Propriétaire                         |
 | PG Admin          |     Michael Stonebraker                                    | https://github.com/pgadmin-org/pgadmin4                                            |   Liberal Open Source license          |
-| DBeaver           |     https://github.com/dbeaver/dbeaver/graphs/contributors | https://github.com/dbeaver/dbeaver                                                 |   Licence Apache (ASL)                 |
+| DBeaver           |     Serge Rider                                            | https://github.com/dbeaver/dbeaver                                                 |   Licence Apache (ASL)                 |
 | Pg_tileserv       |     Paul Ramsey   | https://github.com/CrunchyData/pg_tileserv|  Apache License 2.0    |
 | Varnish Cache     | Varnish Software  | https://github.com/varnishcache/varnish-cache| SPDX-License-Identifier: BSD-2-Clause    |
 | Nginx              |      Igor Sysoev | https://nginx.org/en/|  2-clause BSD-like license|
