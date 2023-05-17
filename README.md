@@ -54,7 +54,7 @@ A faire en mode projet :
                 Qgis
                 ArcGis
                 GRASS GIS
-                SmallworCld
+                Smallworld
                 Mapbox
 
 
