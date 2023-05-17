@@ -1,114 +1,12 @@
-| Nom du truc       |     Créateur      |        Source     |        Licence    |
-| :------------:    | :-------------:   | :-------------:   | :-------------:   |
-| Colonne           |     Colonne       |        Colonne    |       Colonne     |
+| Nom          |    Créateur                                |        Source                                            |        Licence                  |
+| :-----------:| :--------------------------------------:   | :----------------------------------------------------:   | :---------------------------:   |
+| FME          |     Safe Software / en France Veremes      |       (https://www.veremes.com/produits/fme/fme-form)    |       Licence fixe /flotant     |
+| Talend       |     Bertrand Diard et Fabrice Bonan        |       https://www.talend.com/fr/                         |       Open Source               |
+| QGis2Web     |     riccardoklinger                        |      https://plugins.qgis.org/plugins/qgis2web/          |       GNU GPL                   |
+| Alwaysdata   |     Sylvain Lebresne                       |     https://www.alwaysdata.com/fr/                       |       Proprietaire              |
+| OVH          |     	Octave Klaba                        |     https://www.ovhcloud.com/fr/                         |       Proprietaire              |
+| Azure        |     		Microsoft                       |     https://azure.microsoft.com/fr                       |       Proprietaire              |
+| AWS          |     	Amazon                              |     https://www.marches-publics.info/accueil.htm         |       Licences Microsoft sur AWS|
 
 
-Formalisation :
-
-    Créateur : nom
-    Source : lien
-    Licence : ?
-
-Markdown : https://fr.wikipedia.org/wiki/Markdown
-
-Réflexion au truc :
-
-    Réaliser une étude exhaustive des différents types de licences que l'on utilise régulièrement
-        logiciels
-        données
-        langages de prog
-
-A faire en mode projet :
-
-    Pilotage
-        Brainstorm
-        Constitution des groupes
-        Affectation des tâches
-        Processus de validation
-    Recherche
-        Typologie des licences
-            Ouverte
-            Propriétaire
-            Creative Commons
-            Copyleft
-        Logiciels 
-            SIG - Denis
-                Qgis
-                ArcGis
-                GRASS GIS
-                Smallworld
-                Mapbox
-
-
-            ETL - Mohamed
-                FME 
-                Talend
-            Serveurs - Yasmina
-                Mapserver
-                Geoserver
-                Apache
-                Apache Tomcat
-                Nginx
-                Flask
-                Varnish
-                QGsis server
-                Pg_tileserv
-            BDD - Khadim
-                PostgreSQL
-                PostGIS
-                MariaDB
-                MySQL
-
-            Bibliothèque - Rémi
-                Leaflet
-                Openlayers  
-                Lizmap
-                GEOS
-                Gdal
-                OTB            
-            
-            Docker - Yasmina
-            QGis2Web - Mohamed
-            
-            SGBD - Denis
-                PG Admin
-                DBeaver
-                
-            Hébergeurs - Mohamed
-                Alwaysdata
-                OVH
-                Azure
-                AWS
-
-        Langages de prog
-            Python 
-            HTML
-            Javascript
-            PHP
-            CSS  
-            SQL 
-                SQLite
-                Spatialite
-                PostgreSQL
-                PostGIS
-            Arcade
-            Arcpy
-            Pygis
-
-        
-        Données 
-    Compilation
-        Biblio 
-            Sources 
-            Références
-    Mise en forme 
-        Choix du langage de balises
-        Normalisation
-        Rédaction
-        Relecture
-    Diffusion
-        Plateforme / Vecteur de diffusion 
-        Public / Privé
-        Licence 
-        Méthode de MAJ
 
