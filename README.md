@@ -8,7 +8,7 @@
 | Geoserver         | Boundless Spatial, GeoSolutions, Refractions Research | https://github.com/geoserver/geoserver|  GNU General Public License Version 2.0 license|
 | Apache Tomcat     | James Duncan Davidson |https://github.com/apache/tomcat  |     Apache License version 2     |
 | Apache HTTP Server|    Robert McCool  | https://httpd.apache.org/  | Apache License 2.0|
-
+| Docker|   Solomon Hykes  |https://github.com/docker| Apache License 2.0|
 
 Formalisation :
 
