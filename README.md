@@ -22,7 +22,7 @@
 | Pg_tileserv       |     Paul Ramsey   | https://github.com/CrunchyData/pg_tileserv|  Apache License 2.0    |
 | Varnish Cache     | Varnish Software  | https://github.com/varnishcache/varnish-cache| SPDX-License-Identifier: BSD-2-Clause    |
 | Nginx              |      Igor Sysoev | https://nginx.org/en/|  2-clause BSD-like license|
-| Flask             |   Armin Ronacher  |   https://github.com/pallets/flask)   |   BSD 3-Clause "New" or "Revised" License    |
+| Flask             |   Armin Ronacher  |   https://github.com/pallets/flask   |   BSD 3-Clause "New" or "Revised" License    |
 | Mapserver         | Stephen Lime      |https://github.com/MapServer/MapServer |  Open source |
 | Geoserver         | Boundless Spatial, GeoSolutions, Refractions Research | https://github.com/geoserver/geoserver|  GNU General Public License Version 2.0 license|
 | Apache Tomcat     | James Duncan Davidson |https://github.com/apache/tomcat  |     Apache License version 2     |
