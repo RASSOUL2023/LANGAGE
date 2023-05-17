@@ -1,3 +1,4 @@
+
 | Nom du truc       |     Développeur      |        Source     |        Licence    |
 | :------------:    | :-------------:   | :-------------:   | :-------------:   |
 | Leaflet           |     Volodymyr Agafonkin       |      https://leafletjs.com/  |       BSD 2-Clause License    |
@@ -11,7 +12,15 @@
 | JavaScript           |     Netscape Communications Corporation et Mozilla Foundation        | https://developer.mozilla.org/fr/docs/Web/JavaScript |       ?    |
 | PHP 8           |     The PHP Group         | https://www.php.net/ |       licence PHP    |
 | CSS 4           |    W3C - CSS Working Group         | https://www.php.net/ |       ?   |
-
+| Pg_tileserv       |     Paul Ramsey   | https://github.com/CrunchyData/pg_tileserv|  Apache License 2.0    |
+| Varnish Cache     | Varnish Software  | https://github.com/varnishcache/varnish-cache| SPDX-License-Identifier: BSD-2-Clause    |
+| Nginx              |      Igor Sysoev | https://nginx.org/en/|  2-clause BSD-like license|
+| Flask             |   Armin Ronacher  |   https://github.com/pallets/flask)   |   BSD 3-Clause "New" or "Revised" License    |
+| Mapserver         | Stephen Lime      |https://github.com/MapServer/MapServer |  Open source |
+| Geoserver         | Boundless Spatial, GeoSolutions, Refractions Research | https://github.com/geoserver/geoserver|  GNU General Public License Version 2.0 license|
+| Apache Tomcat     | James Duncan Davidson |https://github.com/apache/tomcat  |     Apache License version 2     |
+| Apache HTTP Server|    Robert McCool  | https://httpd.apache.org/  | Apache License 2.0|
+| Docker|   Solomon Hykes  |https://github.com/docker| Apache License 2.0|
 
 
 
