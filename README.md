@@ -1,4 +1,4 @@
-| Nom du truc       |     Créateur      |        Source     |        Licence    |
+| Nom du truc       |     Développeur      |        Source     |        Licence    |
 | :------------:    | :-------------:   | :-------------:   | :-------------:   |
 | Leaflet           |     Volodymyr Agafonkin       |      (https://leafletjs.com/)  |       BSD 2-Clause License    |
 | Openlayers           |     MetaCarta        |  https://openlayers.org/  |       BSD 2-Clause License    |
@@ -6,6 +6,15 @@
 | GEOS           |     OSgeo        |  https://libgeos.org/  |       LGPL    |
 | Gdal           |     OSgeo        | https://gdal.org/ |       MIT    |
 | Orfeo ToolBox (OTB) |     CNES        | https://www.orfeo-toolbox.org/ |       CC By 4.0    |
+| Python v3  |     Python Software Foundation        | https://www.python.org/ |       Python Software Foundation License (PSFL)    |
+| HTML 5  |     World Wide Web Consortium  et Web Hypertext Application Technology Working Group      | https://html.spec.whatwg.org/multipage/ |       ?   |
+| JavaScript           |     Netscape Communications Corporation et Mozilla Foundation        | https://developer.mozilla.org/fr/docs/Web/JavaScript |       ?    |
+| PHP 8           |     The PHP Group         | https://www.php.net/ |       licence PHP    |
+| CSS 4           |    W3C - CSS Working Group         | https://www.php.net/ |       ?   |
+
+
+
+
 
 
 
@@ -45,7 +54,7 @@ A faire en mode projet :
                 Qgis
                 ArcGis
                 GRASS GIS
-                Smallworld
+                SmallworCld
                 Mapbox
 
 
