@@ -28,7 +28,7 @@
 | Apache Tomcat     | James Duncan Davidson |https://github.com/apache/tomcat  |     Apache License version 2     |
 | Apache HTTP Server|    Robert McCool  | https://httpd.apache.org/  | Apache License 2.0|
 | Docker|   Solomon Hykes  |https://github.com/docker| Apache License 2.0|
-|  postgis         |Refractions Research|	www.postgis.org GPL            |
+|  postgis         |Refractions Research|	www.postgis.org | GPL            |
 |  MariaDB          |Michael Widenius   |https://mariadb.org/| GPL|
 | MySQL        |Michael Widenius      | https://www.mysql.com/ | GPL |
 | FME          |     Safe Software /  Veremes               |       https://www.veremes.com/produits/fme/fme-form      |       Licence fixe /flotant     |
