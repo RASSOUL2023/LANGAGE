@@ -29,9 +29,9 @@
 | Apache Tomcat     | James Duncan Davidson |https://github.com/apache/tomcat  |     Apache License version 2     |
 | Apache HTTP Server|    Robert McCool  | https://httpd.apache.org/  | Apache License 2.0|
 | Docker|   Solomon Hykes  |https://github.com/docker| Apache License 2.0|
-|  postgis         |Refractions Research|phttps://fr.wikipedia.org/wiki/PostGIS#Histoire| GPL            |
+|  postgis         |Refractions Research| https://fr.wikipedia.org/wiki/PostGIS#Histoire| GPL            |
 |  MariaDB          |Michael Widenius   |https://mariadb.org/| GPL|
-| MySQL        |Michael Widenius      |https://fr.wikipedia.org/wiki/MySQL#:~:text=La%20premi%C3%A8re%20version%20de%20MySQL,la%20m%C3%AAme%20API%20que%20mSQL.| GPL |
+| MySQL        |Michael Widenius      | https://www.mysql.com/ | GPL |
 
 Formalisation :
 
