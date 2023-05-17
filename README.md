@@ -1,7 +1,12 @@
 | Nom du truc       |     Créateur      |        Source     |        Licence    |
 | :------------:    | :-------------:   | :-------------:   | :-------------:   |
-| Colonne           |     Colonne       |        Colonne    |       Colonne     |
+| postgres          |Michael Stonebraker| unversity Berkeley|   GPL             |
 
+|  postgis         |Refractions Research|plugin SGBD PostgreSQL| GPL            |
+
+|  MariaDB          |Michael Widenius   |Prénom de la 2eme fille du createur "maria"| GPL|
+
+| MySQL        |Michael Widenius      |Prénom de la 1ere fille du createur "My"| GPL |
 
 Formalisation :
 
