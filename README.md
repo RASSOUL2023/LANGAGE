@@ -12,6 +12,13 @@
 | JavaScript           |     Netscape Communications Corporation et Mozilla Foundation        | https://developer.mozilla.org/fr/docs/Web/JavaScript |       ?    |
 | PHP 8           |     The PHP Group         | https://www.php.net/ |       licence PHP    |
 | CSS 4           |    W3C - CSS Working Group         | https://www.php.net/ |       ?   |
+| Qgis              |     Équipe de développement de QGIS                        | https://github.com/qgis/QGIS                                                       |   licence GPL                          |
+| Arcgis            |     ESRI                                                   | https://www.arcgis.com/index.html                                                  |   Licence propriétaire                 |
+| GRASS GIS         |     GRASS Development Team                                 | https://github.com/OSGeo/grass                                                     |   GNU GPL                              |
+| Smallworld        |     GE Numérique                                           | https://www.ge.com/digital/applications/smallworld-gis-geospatial-asset-management |   Propriétaire                         |
+| Mapbox            |     Eric Gundersen                                         | https://mapbox.com                                                                 |   Propriétaire                         |
+| PG Admin          |     Michael Stonebraker                                    | https://github.com/pgadmin-org/pgadmin4                                            |   Liberal Open Source license          |
+| DBeaver           |     https://github.com/dbeaver/dbeaver/graphs/contributors | https://github.com/dbeaver/dbeaver                                                 |   Licence Apache (ASL)                 |
 | Pg_tileserv       |     Paul Ramsey   | https://github.com/CrunchyData/pg_tileserv|  Apache License 2.0    |
 | Varnish Cache     | Varnish Software  | https://github.com/varnishcache/varnish-cache| SPDX-License-Identifier: BSD-2-Clause    |
 | Nginx              |      Igor Sysoev | https://nginx.org/en/|  2-clause BSD-like license|
@@ -21,6 +28,7 @@
 | Apache Tomcat     | James Duncan Davidson |https://github.com/apache/tomcat  |     Apache License version 2     |
 | Apache HTTP Server|    Robert McCool  | https://httpd.apache.org/  | Apache License 2.0|
 | Docker|   Solomon Hykes  |https://github.com/docker| Apache License 2.0|
+
 
 
 
@@ -138,4 +146,3 @@ A faire en mode projet :
         Public / Privé
         Licence 
         Méthode de MAJ
-
