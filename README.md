@@ -19,7 +19,7 @@ A faire en mode projet :
             Creative Commons
             Copyleft
         Logiciels 
-            SIG
+            SIG - Denis
                 Qgis
                 ArcGis
                 GRASS GIS
@@ -27,10 +27,10 @@ A faire en mode projet :
                 Mapbox
 
 
-            ETL 
+            ETL - Mohamed
                 FME 
                 Talend
-            Serveurs
+            Serveurs - Yasmina
                 Mapserver
                 Geoserver
                 Apache
@@ -40,13 +40,13 @@ A faire en mode projet :
                 Varnish
                 QGsis server
                 Pg_tileserv
-            BDD
+            BDD - Khadim
                 PostgreSQL
                 PostGIS
                 MariaDB
                 MySQL
 
-            Bibliothèque
+            Bibliothèque - Rémi
                 Leaflet
                 Openlayers  
                 Lizmap
@@ -54,21 +54,21 @@ A faire en mode projet :
                 Gdal
                 OTB            
             
-            Docker
-            QGis2Web
+            Docker - Yasmina
+            QGis2Web - Mohamed
             
-            SGBD
+            SGBD - Denis
                 PG Admin
                 DBeaver
                 
-            Hébergeurs
+            Hébergeurs - Mohamed
                 Alwaysdata
                 OVH
                 Azure
                 AWS
 
-        Langages de prog 
-            Python
+        Langages de prog
+            Python 
             HTML
             Javascript
             PHP
