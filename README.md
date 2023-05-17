@@ -1,12 +1,12 @@
 | Nom du truc       |     Créateur      |        Source     |        Licence    |
 | :------------:    | :-------------:   | :-------------:   | :-------------:   |
-| postgres          |Michael Stonebraker| unversity Berkeley|   GPL             |
+| postgres          |Michael Stonebraker|https://www.postgresql.org/about/licence/|   GPL             |
 
-|  postgis         |Refractions Research|plugin SGBD PostgreSQL| GPL            |
+|  postgis         |Refractions Research|phttps://fr.wikipedia.org/wiki/PostGIS#Histoire| GPL            |
 
-|  MariaDB          |Michael Widenius   |Prénom de la 2eme fille du createur "maria"| GPL|
+|  MariaDB          |Michael Widenius   |https://mariadb.org/| GPL|
 
-| MySQL        |Michael Widenius      |Prénom de la 1ere fille du createur "My"| GPL |
+| MySQL        |Michael Widenius      |https://fr.wikipedia.org/wiki/MySQL#:~:text=La%20premi%C3%A8re%20version%20de%20MySQL,la%20m%C3%AAme%20API%20que%20mSQL.| GPL |
 
 Formalisation :
 
