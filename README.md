@@ -1,5 +1,5 @@
 | Nom du truc       |     Créateur      |        Source     |        Licence    |
-
+| :------------ | :-------------: | -------------: |-------------: |
 | Pg_tileserv       |     Paul Ramsey   | https://github.com/CrunchyData/pg_tileserv|  Apache License 2.0    |
 | Varnish Cache     | Varnish Software  | https://github.com/varnishcache/varnish-cache| SPDX-License-Identifier: BSD-2-Clause    |
 | Nginx              |      Igor Sysoev | https://nginx.org/en/|  2-clause BSD-like license|
