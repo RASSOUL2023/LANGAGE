@@ -1,6 +1,7 @@
 | Nom du truc       |     Créateur      |        Source     |        Licence    |
 | :------------:    | :-------------:   | :-------------:   | :-------------:   |
-| Colonne           |     Colonne       |        Colonne    |       Colonne     |
+| Leaflet           |     Volodymyr Agafonkin       |       [ https://leafletjs.com/ ](https://leafletjs.com/)  |       BSD 2-Clause License    |
+| Openlayers           |     MetaCarta        |        [https://leafletjs.com/ ](https://openlayers.org/)  |       BSD 2-Clause License    |
 
 
 Formalisation :
