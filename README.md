@@ -1,6 +1,7 @@
 
 | Nom du truc       |     Développeur      |        Source     |        Licence    |
 | :------------:    | :-------------:   | :-------------:   | :-------------:   |
+| postgres          |Michael Stonebraker|https://www.postgresql.org/about/licence/|   GPL             |
 | Leaflet           |     Volodymyr Agafonkin       |      https://leafletjs.com/  |       BSD 2-Clause License    |
 | Openlayers           |     MetaCarta        |  https://openlayers.org/  |       BSD 2-Clause License    |
 | Lizmap           |     3Liz        | https://www.lizmap.com/  |       ?    |
@@ -28,15 +29,9 @@
 | Apache Tomcat     | James Duncan Davidson |https://github.com/apache/tomcat  |     Apache License version 2     |
 | Apache HTTP Server|    Robert McCool  | https://httpd.apache.org/  | Apache License 2.0|
 | Docker|   Solomon Hykes  |https://github.com/docker| Apache License 2.0|
-
-
-
-
-
-
-
-
-
+|  postgis         |Refractions Research|phttps://fr.wikipedia.org/wiki/PostGIS#Histoire| GPL            |
+|  MariaDB          |Michael Widenius   |https://mariadb.org/| GPL|
+| MySQL        |Michael Widenius      |https://fr.wikipedia.org/wiki/MySQL#:~:text=La%20premi%C3%A8re%20version%20de%20MySQL,la%20m%C3%AAme%20API%20que%20mSQL.| GPL |
 
 Formalisation :
 
