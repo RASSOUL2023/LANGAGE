@@ -1,4 +1,3 @@
-
 | Nom du truc       |     Développeur      |        Source     |        Licence    |
 | :------------:    | :-------------:   | :-------------:   | :-------------:   |
 | postgres          |Michael Stonebraker|https://www.postgresql.org/about/licence/|   GPL             |
@@ -32,6 +31,14 @@
 |  postgis         |Refractions Research|	www.postgis.org GPL            |
 |  MariaDB          |Michael Widenius   |https://mariadb.org/| GPL|
 | MySQL        |Michael Widenius      | https://www.mysql.com/ | GPL |
+| FME          |     Safe Software /  Veremes               |       https://www.veremes.com/produits/fme/fme-form      |       Licence fixe /flotant     |
+| Talend       |     Bertrand Diard et Fabrice Bonan        |       https://www.talend.com/fr/                         |       Open Source               |
+| QGis2Web     |     riccardoklinger                        |      https://plugins.qgis.org/plugins/qgis2web/          |       GNU GPL                   |
+| Alwaysdata   |     Sylvain Lebresne                       |     https://www.alwaysdata.com/fr/                       |       Proprietaire              |
+| OVH          |     	Octave Klaba                          |     https://www.ovhcloud.com/fr/                         |       Proprietaire              |
+| Azure        |     		Microsoft                           |     https://azure.microsoft.com/fr                       |       Proprietaire              |
+| AWS          |     	Amazon                                |     https://www.marches-publics.info/accueil.htm         |       Licences Microsoft sur AWS|
+
 
 Formalisation :
 
@@ -141,3 +148,4 @@ A faire en mode projet :
         Public / Privé
         Licence 
         Méthode de MAJ
+
