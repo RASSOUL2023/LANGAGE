@@ -1,3 +1,11 @@
+Formalisation :
+
+    Créateur : nom
+    Source : lien
+    Licence : ?
+
+Markdown : https://fr.wikipedia.org/wiki/Markdown
+
 Réflexion au truc :
 
     Réaliser une étude exhaustive des différents types de licences que l'on utilise régulièrement
