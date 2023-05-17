@@ -1,5 +1,17 @@
-| Nom du truc       |     Créateur      |        Source     |        Licence    |
-| :------------ | :-------------: | :-------------: |:-------------: |
+
+| Nom du truc       |     Développeur      |        Source     |        Licence    |
+| :------------:    | :-------------:   | :-------------:   | :-------------:   |
+| Leaflet           |     Volodymyr Agafonkin       |      https://leafletjs.com/  |       BSD 2-Clause License    |
+| Openlayers           |     MetaCarta        |  https://openlayers.org/  |       BSD 2-Clause License    |
+| Lizmap           |     3Liz        | https://www.lizmap.com/  |       ?    |
+| GEOS           |     OSgeo        |  https://libgeos.org/  |       LGPL    |
+| Gdal           |     OSgeo        | https://gdal.org/ |       MIT    |
+| Orfeo ToolBox (OTB) |     CNES        | https://www.orfeo-toolbox.org/ |       CC By 4.0    |
+| Python v3  |     Python Software Foundation        | https://www.python.org/ |       Python Software Foundation License (PSFL)    |
+| HTML 5  |     World Wide Web Consortium  et Web Hypertext Application Technology Working Group      | https://html.spec.whatwg.org/multipage/ |       ?   |
+| JavaScript           |     Netscape Communications Corporation et Mozilla Foundation        | https://developer.mozilla.org/fr/docs/Web/JavaScript |       ?    |
+| PHP 8           |     The PHP Group         | https://www.php.net/ |       licence PHP    |
+| CSS 4           |    W3C - CSS Working Group         | https://www.php.net/ |       ?   |
 | Pg_tileserv       |     Paul Ramsey   | https://github.com/CrunchyData/pg_tileserv|  Apache License 2.0    |
 | Varnish Cache     | Varnish Software  | https://github.com/varnishcache/varnish-cache| SPDX-License-Identifier: BSD-2-Clause    |
 | Nginx              |      Igor Sysoev | https://nginx.org/en/|  2-clause BSD-like license|
@@ -9,6 +21,14 @@
 | Apache Tomcat     | James Duncan Davidson |https://github.com/apache/tomcat  |     Apache License version 2     |
 | Apache HTTP Server|    Robert McCool  | https://httpd.apache.org/  | Apache License 2.0|
 | Docker|   Solomon Hykes  |https://github.com/docker| Apache License 2.0|
+
+
+
+
+
+
+
+
 
 Formalisation :
 
