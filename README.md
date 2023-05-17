@@ -1,6 +1,6 @@
 | Nom du truc       |     Développeur      |        Source     |        Licence    |
 | :------------:    | :-------------:   | :-------------:   | :-------------:   |
-| Leaflet           |     Volodymyr Agafonkin       |      (https://leafletjs.com/)  |       BSD 2-Clause License    |
+| Leaflet           |     Volodymyr Agafonkin       |      https://leafletjs.com/  |       BSD 2-Clause License    |
 | Openlayers           |     MetaCarta        |  https://openlayers.org/  |       BSD 2-Clause License    |
 | Lizmap           |     3Liz        | https://www.lizmap.com/  |       ?    |
 | GEOS           |     OSgeo        |  https://libgeos.org/  |       LGPL    |
