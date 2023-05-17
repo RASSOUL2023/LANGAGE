@@ -11,7 +11,6 @@
 | JavaScript           |     Netscape Communications Corporation et Mozilla Foundation        | https://developer.mozilla.org/fr/docs/Web/JavaScript |       ?    |
 | PHP 8           |     The PHP Group         | https://www.php.net/ |       licence PHP    |
 | CSS 4           |    W3C - CSS Working Group         | https://www.php.net/ |       ?   |
-
 | Qgis              |     Équipe de développement de QGIS                        | https://github.com/qgis/QGIS                                                       |   licence GPL                          |
 | Arcgis            |     ESRI                                                   | https://www.arcgis.com/index.html                                                  |   Licence propriétaire                 |
 | GRASS GIS         |     GRASS Development Team                                 | https://github.com/OSGeo/grass                                                     |   GNU GPL                              |
